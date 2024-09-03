@@ -1,0 +1,15 @@
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Flower 1 with a link to wp.pl -->
+  <a href="https://www.wp.pl" target="_blank">
+    <circle cx="50" cy="50" r="40" stroke="pink" stroke-width="3" fill="lightpink" />
+    <text x="50" y="55" font-size="12" text-anchor="middle" fill="darkred">Flower 1</text>
+  </a>
+
+  <!-- Flower 2 with a link to onet.pl -->
+  <a href="https://www.onet.pl" target="_blank">
+    <circle cx="150" cy="50" r="40" stroke="lightblue" stroke-width="3" fill="lightblue" />
+    <text x="150" y="55" font-size="12" text-anchor="middle" fill="navy">Flower 2</text>
+  </a>
+
+</svg>
